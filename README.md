@@ -11,7 +11,7 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 
 <br/>
 
-
+##
 ## Folder Structure
 
 The project main directory is organized into two folders:
@@ -22,7 +22,7 @@ The project main directory is organized into two folders:
 
 <br/>
 
-
+##
 ## Getting Started
 
 ### Running on Windows
@@ -32,8 +32,6 @@ The project main directory is organized into two folders:
 3. Double-click on the executable file named `C Pointer Concept Illustrator.exe`.
 4. The application should launch on your Windows machine.
 5. You can import sample codes from the `main/Windows/Code Presets` GitHub repository.  
-
-<br/>
 
 ### Running on Linux
 
@@ -58,6 +56,7 @@ The project main directory is organized into two folders:
 
 <br/>
 
+##
 ## Currently working features
 
 - "Import Custom File" button
@@ -69,6 +68,7 @@ The project main directory is organized into two folders:
 <br/>
 
 
+##
 ## Currently in development
 
 - Lexical and Syntactical Analysis  
@@ -77,6 +77,7 @@ The project main directory is organized into two folders:
 <br/>
 
 
+##
 ## Future Developments
 
 - Animations for the second and third panes (level pane and box-and-pointer panes)  
