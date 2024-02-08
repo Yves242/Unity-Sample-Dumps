@@ -38,7 +38,6 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.  
 
 ## Finished Developments
-
 - Adding of controls pane buttons with clickability functionality.
 - Creating own cursor icons and assigning the appropriate icons at appropriate events.
 - Setting up of the codes pane with dynamically-allocated line numbers.
@@ -53,12 +52,14 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 - Lexical analysis for preparation of syntactical analysis.
 - Frequent optimization of codes for improving the run-time of the program while having code organizations and modularizations as well for efficient application management.
 
-## Currently in Development
 
-- Syntactical Analysis  
+## Currently in Development
+- Clicking the `[line xx]` button must show the given line with appropriate highlight and syncing at the appropriate event.
+- The raycasted area in the `[line xx]` button must adjust dynamically to make the clickable area "natural".
+
 
 ## Future Developments
-
+- Syntactical Analysis  
 - Add error handlers for syntactically-incorrect lines.
 - Create the internal architecture for the virtualization of memory of variables, pointers, and references.
 - Create meaningful sample-debug files.
@@ -66,4 +67,5 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 - Code-specific animations for the next, previous, and go-to-line buttons.
 - Implement saving of code files.
 - Add the credits page.
+- Resolve unforeseen bugs which will inadvertently reveal itself during the app development process.
 - Acquire feedback from student-users and professor-users (target is somewhere as early as March, 2024).
