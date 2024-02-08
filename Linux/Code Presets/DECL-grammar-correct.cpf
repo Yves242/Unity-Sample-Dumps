@@ -1,0 +1,7 @@
+// correct
+// declarations
+
+int x;
+int *x;
+
+

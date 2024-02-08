@@ -1,0 +1,129 @@
+// correct
+// declared
+// assignments
+
+int v=v;
+
+
+
+
+int v=*v;
+
+
+
+
+int v=*(&v);
+
+
+
+
+int v=&v;
+
+
+
+
+int v=7;
+
+
+
+
+v= v;
+
+
+
+
+v= *v;
+
+
+
+
+v= *(&v);
+
+
+
+
+v= &v;
+
+
+
+
+v= 7;
+
+
+
+
+ int v=v ;
+
+
+
+
+ int v=*v ;
+
+
+
+
+ int v=*(&v) ;
+
+
+
+
+ int v=&v ;
+
+
+
+
+ int v=7 ;
+
+
+
+
+int  v =v;
+
+
+
+
+int  v =*v;
+
+
+
+
+int  v =*(&v);
+
+
+
+
+int  v =&v;
+
+
+
+
+int  v =7;
+
+
+
+
+int v= v ;
+
+
+
+
+int v= *v ;
+
+
+
+
+int v= *(&v) ;
+
+
+
+
+int v= &v ;
+
+
+
+
+int v= 7 ;
+
+
+
+

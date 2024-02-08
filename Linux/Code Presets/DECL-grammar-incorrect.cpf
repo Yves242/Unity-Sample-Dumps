@@ -1,0 +1,9 @@
+// incorrect
+// declarations
+
+
+
+
+int &x;
+int *(&x);
+int 7;

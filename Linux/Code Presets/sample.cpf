@@ -1,0 +1,9 @@
+int var=3;
+int var=3;
+int *ptr;
+int *ptr1;
+ptr = &var;
+ptr1 = ptr;
+int **ptr2;
+ptr2 = ptr1;
+ptr2 = &ptr1;
