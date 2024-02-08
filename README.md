@@ -6,8 +6,7 @@
 
 ## Project Overview
 
-The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.
-
+The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.  
 
 
 ## Folder Structure
@@ -15,7 +14,7 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 The project main directory is organized into two folders:
 
 - **Windows:** Contains the executable files for Windows.
-- **Linux:** Contains the executable files for Linux.
+- **Linux:** Contains the executable files for Linux.  
 
 
 
@@ -27,16 +26,13 @@ The project main directory is organized into two folders:
 2. Select the specific folder version you would like to view.
 3. Double-click on the executable file named `C Pointer Concept Illustrator.exe`.
 4. The application should launch on your Windows machine.
-5. You can import sample codes from the `main/Windows/Code Presets` GitHub repository.
+5. You can import sample codes from the `main/Windows/Code Presets` GitHub repository.  
 
 ### Running on Linux
 
 1. Navigate to the `linux` folder.
-
 2. Select the specific folder version you would like to view.
-
 3. Open a terminal in this directory.
-
 4. Run the following command to give execute permissions to the Linux executable:
 
    ```
@@ -50,9 +46,7 @@ The project main directory is organized into two folders:
    ```
 
 6. The application should launch on your Linux machine.
-
-7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.
-
+7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.  
 
 
 ## Currently working features
@@ -60,19 +54,19 @@ The project main directory is organized into two folders:
 - "Import Custom File" button
 - Previous and Next Button animations
 - Go-to-line functionalities with animations
-- Error handlers for character limit
+- Error handlers for character limit  
 
 
 
 ## Currently in development
 
-- Lexical and Syntactical Analysis
+- Lexical and Syntactical Analysis  
 
 
 
 ## Future Developments
 
-- Animations for the second and third panes (level pane and box-and-pointer panes)
+- Animations for the second and third panes (level pane and box-and-pointer panes)  
 
 
 
