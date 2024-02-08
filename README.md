@@ -6,7 +6,10 @@
 
 ## Project Overview
 
-The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.  
+The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing. 
+
+
+<br/>
 
 
 ## Folder Structure
@@ -14,8 +17,10 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 The project main directory is organized into two folders:
 
 - **Windows:** Contains the executable files for Windows.
-- **Linux:** Contains the executable files for Linux.  
+- **Linux:** Contains the executable files for Linux.<br/>
 
+
+<br/>
 
 
 ## Getting Started
@@ -27,6 +32,8 @@ The project main directory is organized into two folders:
 3. Double-click on the executable file named `C Pointer Concept Illustrator.exe`.
 4. The application should launch on your Windows machine.
 5. You can import sample codes from the `main/Windows/Code Presets` GitHub repository.  
+
+<br/>
 
 ### Running on Linux
 
@@ -49,6 +56,8 @@ The project main directory is organized into two folders:
 7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.  
 
 
+<br/>
+
 ## Currently working features
 
 - "Import Custom File" button
@@ -57,11 +66,15 @@ The project main directory is organized into two folders:
 - Error handlers for character limit  
 
 
+<br/>
+
 
 ## Currently in development
 
 - Lexical and Syntactical Analysis  
 
+
+<br/>
 
 
 ## Future Developments
@@ -69,4 +82,5 @@ The project main directory is organized into two folders:
 - Animations for the second and third panes (level pane and box-and-pointer panes)  
 
 
+<br/>
 
