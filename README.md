@@ -57,7 +57,7 @@ The project main directory is organized into two folders:
 <br/>
 
 
-## Currently working features
+## Currently Working Features
 
 - "Import Custom File" button
 - Previous and Next Button animations
@@ -69,9 +69,25 @@ The project main directory is organized into two folders:
 
 
 
-## Currently in development
+## Finished Developments
 
-- Lexical and Syntactical Analysis  
+- Adding of controls pane buttons with clickability functionality.
+- Setting up of the codes pane with dynamically-allocated line numbers.
+- "Mastering" of the GUI for the 963x507 SP program resolution.
+- Normal highlighting function on a given specific line number. Believe it or not, I implemented these using textboxes and strings.
+- Notification panel implmentation, with event-driven checks on string inputs in the codes pane.
+- Error-specific highlighting when a character limit error is detected. Believe it or not, again, implemented using textboxes and texts.
+- Native pop-up file dialogues for importing and saving files. I used an open-source unity package for this one.
+- Lexical analysis for preparation of syntactical analysis. 
+
+
+<br/>
+
+
+
+## Currently in Development
+
+- Syntactical Analysis  
 
 
 <br/>
@@ -80,8 +96,14 @@ The project main directory is organized into two folders:
 
 ## Future Developments
 
-- Animations for the second and third panes (level pane and box-and-pointer panes)  
-
+- Add error handlers for syntactically-incorrect lines.
+- Create the internal architecture for the virtualization of memory of variables, pointers, and references.
+- Create meaningful sample-debug files.
+- Code-specific animations for the play, pause, and stop buttons.
+- Code-specific animations for the next, previous, and go-to-line buttons.
+- Implement saving of code files.
+- Add the credits page.
+- Acquire feedback from student-users and professor-users (target is somewhere as early as March, 2024).
 
 <br/>
 
