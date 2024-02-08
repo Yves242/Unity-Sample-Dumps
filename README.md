@@ -9,7 +9,7 @@
 The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing. 
 
 
-<br/>
+
 
 
 ## Folder Structure
@@ -17,10 +17,10 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 The project main directory is organized into two folders:
 
 - **Windows:** Contains the executable files for Windows.
-- **Linux:** Contains the executable files for Linux.<br/>
+- **Linux:** Contains the executable files for Linux.
 
 
-<br/>
+
 
 
 ## Getting Started
@@ -54,7 +54,7 @@ The project main directory is organized into two folders:
 7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.  
 
 
-<br/>
+
 
 
 ## Currently Working Features
@@ -65,7 +65,7 @@ The project main directory is organized into two folders:
 - Error handlers for character limit  
 
 
-<br/>
+
 
 
 
@@ -81,7 +81,7 @@ The project main directory is organized into two folders:
 - Lexical analysis for preparation of syntactical analysis. 
 
 
-<br/>
+
 
 
 
@@ -90,7 +90,7 @@ The project main directory is organized into two folders:
 - Syntactical Analysis  
 
 
-<br/>
+
 
 
 
@@ -105,5 +105,5 @@ The project main directory is organized into two folders:
 - Add the credits page.
 - Acquire feedback from student-users and professor-users (target is somewhere as early as March, 2024).
 
-<br/>
+
 
