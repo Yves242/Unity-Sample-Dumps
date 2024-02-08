@@ -40,13 +40,18 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 ## Finished Developments
 
 - Adding of controls pane buttons with clickability functionality.
+- Creating own cursor icons and assigning the appropriate icons at appropriate events.
 - Setting up of the codes pane with dynamically-allocated line numbers.
 - "Mastering" of the GUI for the 963x507 SP program resolution.
-- Normal highlighting function on a given specific line number. Believe it or not, I implemented these using textboxes and strings.
 - Notification panel implmentation, with event-driven checks on string inputs in the codes pane.
+- Go-to-line feature with appropriate animations and warning and error handlers.
+- Go-to-line error message handling.
+- Normal highlighting function on a given specific line number. Believe it or not, I implemented these using textboxes and strings.
+- Go-to-line and codes pane highlight syncing.
 - Error-specific highlighting when a character limit error is detected. Believe it or not, again, implemented using textboxes and texts.
 - Native pop-up file dialogues for importing and saving files. I used an open-source unity package for this one.
-- Lexical analysis for preparation of syntactical analysis. 
+- Lexical analysis for preparation of syntactical analysis.
+- Frequent optimization of codes for improving the run-time of the program while having code organizations and modularizations as well for efficient application management.
 
 ## Currently in Development
 
