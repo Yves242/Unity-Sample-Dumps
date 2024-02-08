@@ -27,21 +27,15 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 2. Select the specific folder version you would like to view.
 3. Open a terminal in this directory.
 4. Run the following command to give execute permissions to the Linux executable:
-
    ```
    chmod +x <file_version>.x86_64
    ```
-
 5. Run the game using the following command:
-
    ```
    ./<file_version>.x86_64
    ```
-
 6. The application should launch on your Linux machine.
 7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.  
-
-
 
 ## Finished Developments
 
@@ -54,13 +48,9 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 - Native pop-up file dialogues for importing and saving files. I used an open-source unity package for this one.
 - Lexical analysis for preparation of syntactical analysis. 
 
-
-
 ## Currently in Development
 
 - Syntactical Analysis  
-
-
 
 ## Future Developments
 
@@ -72,4 +62,3 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 - Implement saving of code files.
 - Add the credits page.
 - Acquire feedback from student-users and professor-users (target is somewhere as early as March, 2024).
-
