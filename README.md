@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The "C Pointer Concept Illustrator" project is a Unity game designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems.
+The "C Pointer Concept Illustrator" project is a Unity game designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.
 
 
 
@@ -12,8 +12,8 @@ The "C Pointer Concept Illustrator" project is a Unity game designed to provide 
 
 The project main directory is organized into two folders:
 
-- **windows:** Contains the executable files for Windows.
-- **linux:** Contains the executable files for Linux.
+- **Windows:** Contains the executable files for Windows.
+- **Linux:** Contains the executable files for Linux.
 
 
 
@@ -25,6 +25,7 @@ The project main directory is organized into two folders:
 2. Select the specific folder version you would like to view.
 3. Double-click on the executable file named `C Pointer Concept Illustrator.exe`.
 4. The application should launch on your Windows machine.
+5. You can import sample codes from the `main/Windows/Code Presets` GitHub repository.
 
 ### Running on Linux
 
@@ -46,10 +47,30 @@ The project main directory is organized into two folders:
    ./CPointerConceptIllustrator
    ```
 
-6. The game should launch on your Linux machine.
+6. The application should launch on your Linux machine.
+
+7. You can import sample codes from the `main/Linux/Code Presets` GitHub repository.
 
 
 
-## Issues and Support
+## Currently working features
 
-This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.
+- "Import Custom File" button
+- Previous and Next Button animations
+- Go-to-line functionalities with animations
+- Error handlers for character limit
+
+
+
+## Currently in development
+
+- Lexical and Syntactical Analysis
+
+
+
+## Future Developments
+
+- Animations for the second and third panes (level pane and box-and-pointer panes)
+
+
+
