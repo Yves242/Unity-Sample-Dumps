@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-The "C Pointer Concept Illustrator" project is a Unity game designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.
+The "C Pointer Concept Illustrator" project is a Unity application designed to provide an interactive and educational experience for understanding C pointer concepts. This README file provides instructions on how to run the executable files for the game on both Windows and Linux operating systems. This program is currently in development for Yves' special problem (SP). These are simply snapshots of his current SP for showcasing.
 
 
 
