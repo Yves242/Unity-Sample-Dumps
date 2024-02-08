@@ -11,17 +11,6 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 
 
 
-
-## Folder Structure
-
-The project main directory is organized into two folders:
-
-- **Windows:** Contains the executable files for Windows.
-- **Linux:** Contains the executable files for Linux.
-
-
-
-
 ## Getting Started
 
 ### Running on Windows
