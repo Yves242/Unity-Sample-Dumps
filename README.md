@@ -51,15 +51,15 @@ The "C Pointer Concept Illustrator" project is a Unity application designed to p
 - Native pop-up file dialogues for importing and saving files. I used an open-source unity package for this one.
 - Lexical analysis for preparation of syntactical analysis.
 - Frequent optimization of codes for improving the run-time of the program while having code organizations and modularizations as well for efficient application management.
-
-
-## Currently in Development
 - Clicking the `[line xx]` button must show the given line with appropriate highlight and syncing at the appropriate event.
 - The raycasted area in the `[line xx]` button must adjust dynamically to make the clickable area "natural".
 
 
-## Future Developments
+## Currently in Development
 - Syntactical Analysis  
+
+
+## Future Developments
 - Add error handlers for syntactically-incorrect lines.
 - Create the internal architecture for the virtualization of memory of variables, pointers, and references.
 - Create meaningful sample-debug files.
